@@ -1,0 +1,20 @@
+{
+  "name": "nock-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "author": "Jacob Schulzetenberg",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2",
+    "nock": "^8.1.0"
+  },
+  "dependencies": {
+    "node-rest-client": "^2.0.1",
+    "q": "^1.4.1"
+  }
+}
